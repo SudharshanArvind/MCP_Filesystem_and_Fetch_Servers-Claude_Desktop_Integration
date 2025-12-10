@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "filesystem": {
-      "command": "path/to/npx-wrapper.cmd",
+      "command": "path/to/npx.cmd",
       "args": [
         "-y",
         "@modelcontextprotocol/server-filesystem",
