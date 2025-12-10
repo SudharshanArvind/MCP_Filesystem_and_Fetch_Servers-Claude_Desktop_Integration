@@ -57,8 +57,8 @@ Examples and templates for:
 ```
 mcp-project/
 │
-├── tools/
-│   └── npx-wrapper.cmd
+├── npx-wrapper/
+│   └── npx.cmd
 │
 ├── docs/
 │   ├── tree_structure.txt
