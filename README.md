@@ -57,23 +57,16 @@ Examples and templates for:
 ```
 mcp-project/
 │
-├── src/
-│   ├── fetch/
-│   │   └── server.py
-│   └── other_servers/
-│
 ├── tools/
 │   └── npx-wrapper.cmd
 │
 ├── docs/
 │   ├── tree_structure.txt
-│   ├── technical_documentation.md
-│   └── screenshots/
+│   └── technical_documentation.md
 │
 ├── claude_config_template.json
 ├── requirements.txt
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 
