@@ -1,0 +1,14 @@
+C:\Path\to\Project\
+│
+├── .git/
+├── .github/
+├── scripts/
+│   └── release.py
+├── Other paths
+├── .gitignore
+├── .mcp.json
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+├── SECURITY.md
+└── tsconfig.json
