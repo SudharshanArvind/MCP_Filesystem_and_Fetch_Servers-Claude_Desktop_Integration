@@ -1,14 +1,34 @@
-C:\Path\to\Project\
+<project-root>/
 │
-├── .git/
-├── .github/
-├── scripts/
-│   └── release.py
-├── Other paths
-├── .gitignore
-├── .mcp.json
-├── CONTRIBUTING.md
-├── LICENSE
+├── src/
+│   ├── <module-name>/
+│   │   ├── __init__.py
+│   │   ├── <main-file>.py
+│   │   └── <supporting-files>.py
+│   │
+│   └── <other-modules>/
+│
+├── tools/
+│   ├── <script-1>.cmd
+│   ├── <script-2>.sh
+│   └── <utility-scripts>/
+│
+├── docs/
+│   ├── tree_structure.txt
+│   ├── technical_documentation.md
+│   ├── <additional-docs>.md
+│   └── screenshots/
+│       └── <images>.png
+│
+├── tests/
+│   ├── test_<module>.py
+│   └── <test-resources>/
+│
+├── config/
+│   ├── <config-template>.json
+│   └── <yaml-or-env-files>
+│
+├── requirements.txt
 ├── README.md
-├── SECURITY.md
-└── tsconfig.json
+├── .gitignore
+└── LICENSE
